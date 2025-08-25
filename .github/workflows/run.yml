@@ -1,4 +1,4 @@
-name: run
+name: GLADOS Checkin
 
 on:
   workflow_dispatch:
